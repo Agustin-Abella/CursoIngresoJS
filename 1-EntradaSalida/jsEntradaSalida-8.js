@@ -8,6 +8,6 @@ valor2= document.getElementById("numeroDivisor").value;
 valor1=parseInt(valor1);
 valor2=parseInt(valor2);
 dividir = valor1 % valor2;
-alert("la divicion es " + dividir);
+alert("el resto es: " + dividir);
 	
 }

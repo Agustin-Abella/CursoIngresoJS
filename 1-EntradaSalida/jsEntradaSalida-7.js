@@ -2,6 +2,8 @@
 transformarlos a enteros (parseInt),realizar la operación correcta y 
 mostrar el resulto por medio de "ALERT"
 ej.: "la Resta es 750"*/ 
+
+
 function sumar()
 {valor1= document.getElementById("numeroUno").value;
 valor2= document.getElementById("numeroDos").value;
