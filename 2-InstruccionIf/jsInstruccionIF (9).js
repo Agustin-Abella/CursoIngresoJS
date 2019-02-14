@@ -1,6 +1,6 @@
 function mostrar()
-{
-	//Genero el número RANDOM entre 1 y 10 
+{area = Math.round(Math.random()*10);
+	alert("numero al aleatoreo " + area);
 	
 
 }//FIN DE LA FUNCIÓN
