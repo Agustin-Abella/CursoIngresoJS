@@ -1,5 +1,6 @@
 function mostrar()
-{area = Math.round(Math.random()*10);
+{
+	area = Math.floor(Math.random()*10)+1;
 	alert("numero al aleatoreo " + area);
 	
 

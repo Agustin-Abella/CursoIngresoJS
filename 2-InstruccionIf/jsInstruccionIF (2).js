@@ -1,7 +1,10 @@
 function mostrar()
-{edad=document.getElementById("edad").value;
-if(edad>=18){alert("mayor de edad");
-}
+{
+    edad=document.getElementById("edad").value;
+    if(edad>=18)
+    {
+        alert("mayor de edad");
+    }
 //tomo la edad  
 
 
