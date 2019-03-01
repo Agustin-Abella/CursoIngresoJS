@@ -1,14 +1,15 @@
 function mostrar()
 {
-  var suma;
+  var promedio;
 	var contador = 0;
 	var acumulador = 0;
   var bandera = true;
   var num;
-  while(contador ){
+  while(bandera==true ){
     num = prompt("ingrese numero ");
     num = parseInt(num);
-    acumulador = acumulador +contador
+    acumulador = acumulador + num; 
+    
   }
 
 
